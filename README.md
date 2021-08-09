@@ -4,10 +4,10 @@ rfulgencio3/README.md --v2.0</p>
 Hi, I´m Ricardo Fulgencio, Software Backend Developer</p>
 
 🎓 Postgraduate in Database administrator</p>
-🎓 Graduate in Analisys and software developer</p>
-🏢 .Net developer @SocialBank
-📘 Unit Test, Algorithms, C#, Java, Design Patterns, Architecture Software</p>
-🤔 Interests about: .NET, clean code, unit testing, design patterns, ASP.Net Core
+🎓 Graduated in Systems analysis and development</p>
+🏢 Developer @SocialBank</p>
+📘 C#, Java, Design Patterns, Architecture Software</p>
+🤔 Interests about: .NET, clean code, unit testing, design patterns, ASP.Net Core</p>
 
 ## Languages and Tools:
 [![rfulgencio3 GitHub stats](https://github-readme-stats.vercel.app/api?username=rfulgencio3)](https://github.com/rfulgencio3/github-readme-stats)
