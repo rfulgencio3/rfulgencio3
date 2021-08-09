@@ -6,10 +6,10 @@ Languages and tools
 
 csharp java 
 
-🎓 Postgraduate in Database Administrator
-📘 Unit Test, Algorithms, Python, C#, Design Patterns, Architecture Software, Docker and Linux
-😃 I’m have a project to collaborate share knowledge podcast Café debug and development the web site
-💬 Ask me about .NET, Clean Code, Unit Test, Design Patterns, 
+🎓 Postgraduate in Database Administrator</p>
+📘 Unit Test, Algorithms, C#, Java, Design Patterns, Architecture Software</p>
+😃 DevAraxa Gorup</p>
+💬 Ask me about .NET, Clean Code, Unit Test, Design Patterns, ASP.Net Core</p>
 
 Linkedin Badge Twitter Badge Gmail Badge
 
