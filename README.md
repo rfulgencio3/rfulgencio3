@@ -10,7 +10,7 @@ Hi, I´m Ricardo Fulgencio, Software Backend Developer</p>
 🤔 Interests about: .NET, clean code, unit testing, design patterns, ASP.Net Core
 
 ## Languages and Tools:
-[![rfulgencio3 GitHub stats](https://github-readme-stats.vercel.app/api?username=rfulgencio3)](https://github.com/hellenmas/github-readme-stats)
+[![rfulgencio3 GitHub stats](https://github-readme-stats.vercel.app/api?username=rfulgencio3)](https://github.com/rfulgencio3/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfulgencio3&layout=compact)](https://github.com/rfulgencio3/github-readme-stats)
 
 Social</p>
