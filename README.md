@@ -24,7 +24,7 @@ Automation Servers</p>
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)</p>
 
 Social</p>
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ricardofulgencio]( https://www.linkedin.com/in/ricardofulgencio/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardofulgencio/]( https://www.linkedin.com/in/ricardofulgencio/)
 ![Instagram](https://img.shields.io/badge/rfulgencio3-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Skype](https://img.shields.io/badge/ricardo.fulgencio-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 
