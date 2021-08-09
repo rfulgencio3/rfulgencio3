@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-rfulgencio3/README.md --v2.0
+rfulgencio3/README.md --v2.0</p>
 Hi, I´m Ricardo Fulgencio, Software Backend Developer</p>
 
 🎓 Postgraduate in Database administrator</p>
