@@ -12,7 +12,7 @@ i´m Ricardo Fulgencio, Software Backend Developer</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfulgencio3&layout=compact)](https://github.com/rfulgencio3/github-readme-stats)
 
 ## Social:
-[![Linkedin](https://img.shields.io/badge/-ricardofulgencio-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/ricardofulgencio)
+[![Linkedin](https://img.shields.io/badge/-ricardofulgencio-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardofulgencio/)
 [![GMail](https://img.shields.io/badge/-rfulgencio3-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:rfulgencio3@gmail.com)
 [![Skype](https://img.shields.io/badge/-ricardo.fulgencio-blue?style=flat-square&logo=Skype&logoColor=white)](http://web.skype.com)
 [![GitHub](https://img.shields.io/badge/-rfulgencio3-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/rfulgencio3)
