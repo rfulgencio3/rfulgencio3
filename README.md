@@ -11,7 +11,8 @@ i´m Ricardo Fulgencio, Software Backend Developer</p>
 [![rfulgencio3 GitHub stats](https://github-readme-stats.vercel.app/api?username=rfulgencio3)](https://github.com/rfulgencio3/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfulgencio3&layout=compact)](https://github.com/rfulgencio3/github-readme-stats)
 
-Social</p>
-<code><img height="20" src="https://img.shields.io/badge/-ricardofulgencio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardofulgencio/"></code>
-<code><img height="20" src="https://img.shields.io/badge/rfulgencio3-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/ricardo.fulgencio-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"></code>
+## Social:
+[![Linkedin](https://img.shields.io/badge/-ricardofulgencio-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/ricardofulgencio)
+[![GMail](https://img.shields.io/badge/-rfulgencio3-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:rfulgencio3@gmail.com)
+[![Skype](https://img.shields.io/badge/-ricardo.fulgencio-blue?style=flat-square&logo=Skype&logoColor=white)](http://web.skype.com)
+[![GitHub](https://img.shields.io/badge/-rfulgencio3-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/rfulgencio3)
