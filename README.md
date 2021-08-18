@@ -1,7 +1,7 @@
 ### Hi there 👋
 i´m Ricardo Fulgencio, Software Backend Developer</p>
 
-🎓 Postgraduate in Database administrator</p>
+🎓 Postgraduate in Database administration</p>
 🎓 Graduated in Systems analysis and development</p>
 🏢 Developer @SocialBank</p>
 📘 C#, Java, Design Patterns, Architecture Software</p>
