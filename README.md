@@ -4,8 +4,8 @@ i´m Ricardo Fulgencio, Software Backend Developer</p>
 🎓 Postgraduate in Database administration</p>
 🎓 Graduated in Systems analysis and development</p>
 🏢 Developer @SocialBank</p>
-📘 C#, Java, Design Patterns, Architecture Software</p>
-🤔 Interests about: .NET, ASP.Net Core, clean code, TDD, DDD, other architecture patterns, design patterns</p>
+📘 C#, Java, Design Patterns, Software Architecture</p>
+🤔 Interests about: .NET, ASP.Net Core, Clean Code, TDD, DDD, other architecture patterns, design patterns</p>
 
 ## Languages and Tools:
 [![rfulgencio3 GitHub stats](https://github-readme-stats.vercel.app/api?username=rfulgencio3)](https://github.com/rfulgencio3/github-readme-stats)
