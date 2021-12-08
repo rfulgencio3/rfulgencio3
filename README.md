@@ -1,5 +1,5 @@
 ### Hi there 👋
-i´m Ricardo Fulgencio, Backend Software Developer</p>
+i´m Ricardo Fulgencio, Software Developer</p>
 
 🎓 Postgraduate in Database administration</p>
 🎓 Graduated in Systems analysis and development</p>
