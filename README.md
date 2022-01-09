@@ -4,7 +4,7 @@ i´m Ricardo Fulgencio, Software Developer</p>
 🎓 Postgraduate in Database administration</p>
 🎓 Graduated in Systems analysis and development</p>
 🏢 Developer @SocialBank</p>
-📘 C#, Java, Design Patterns, Software Architecture</p>
+📘 C#, Go, Java, Design Patterns, Software Architecture, Microservices</p>
 🤔 Interests about: .NET, ASP.Net Core, Clean Code, TDD, DDD, other architecture patterns, design patterns</p>
 
 ## Languages and Tools:
