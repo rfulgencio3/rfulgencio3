@@ -3,7 +3,7 @@ i´m Ricardo Fulgencio, .NET Backend Developer</p>
 
 🎓 Postgraduate in Database administration</p>
 🎓 Graduated in Systems analysis and development</p>
-🏢 Developer @BRQ</p>
+🏢 Developer at BRQ</p>
 📘 C#, Design Patterns, Software Architecture, Microservices</p>
 🤔 Interests about: .NET, ASP.Net Core, Go, Clean Code, TDD, DDD, microservices, architecture patterns, design patterns (GoF)</p>
 
