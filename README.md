@@ -1,6 +1,7 @@
 ### Hi there 👋
 i´m Ricardo Fulgencio, .NET Backend Developer</p>
 
+🎓 Postgraduate in .NET architecture <i>(in course)</i></p>
 🎓 Postgraduate in Database administration</p>
 🎓 Graduated in Systems analysis and development</p>
 🏢 .NET Back-end Developer</p>
